@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harshp-zigs.github.io/beyond-chatbots-faster-context-aware-ai-answers/sitemap.xml
